@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+}
+
+.right-part,.left-par{
+   
+    width: 50px;
+    height:30px;
+    margin: 12px 15px 12px 15px;
+}
+.left-part{
+    width: 50px;
+    height:30px;
+    margin: 12px 15px 12px 15px;
+}
+.bar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.fa-bars{
+    color: white;
+}
+.ola-main{
+    width: 626px;
+    height: 896.42px;
+}
+.img-container{
+    position: relative;
+}
+.home-page-banner{
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 15%;
+}
+
+.fst-page{
+    display: flex;
+    height: 896.42px;
+}
+.login-grid h1{
+    font-size: 50px;
+    font-family: Roboto,Arial;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+
+.login-grid p {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(107, 101, 101);
+    margin-bottom: 30px;
+    
+}
+.login-box1{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 12px;
+
+}
+.input-box{
+    height: 40px;
+}
+.login-box2{
+    justify-content: space-between;
+    display: flex;
+    width: 100;
+    margin-bottom: 12px;
+}
+.booking{
+    font-size: 20px;
+    background-color: rgb(161, 155, 155);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left:150px;
+    padding-right:150px
+}
+h6{
+    width: 453px;
+    padding-left: 131px;
+    margin-top: 14px;
+    color:rgb(161, 155, 155);
+    
+}
+.s1-petrol h1{
+    margin: 14px 0 0 30px;
+    font-size: 50px;
+    font-family: Roboto, Arial;
+    font-weight: 300;
+
+}
+.s1-img{
+    width: 350px;
+    border-radius: 10px;
+    
+}
+.s1-logo{
+    margin-left: 30px;
+}
+.s1-pro p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Roboto,Arial;
+    color: rgb(109, 108, 108);
+    margin: 14px 0 0 30px;
+}
+.price{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Roboto,Arial;
+    color: rgb(109, 108, 108);
+    margin: 14px 0 23px 30px;
+}
+.price h2{
+    color:black;
+    margin-top: 6px;
+   
+}
+.explore{
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin: 40px 0 0 40px;
+    padding: 8px 45px 8px 45px;
+}    
+.s1-fea{
+    width: 290px;
+    height: 260px;
+    margin-left: 30px;
+}
+.s1-details{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 100px;
+    
+   
+}
+.s1-box{
+    background-color: rgb(235, 239, 241);
+    width: 350px;
+    margin-left: 30px;
+    border-radius: 15px;
+    margin-top: 14px;
+}
+.trd-head h2{
+    margin: 14px 0 0 30px;
+    font-size: 50px;
+    font-family: Roboto, Arial;
+    font-weight: 300;
+}
+.trd-head p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Roboto,Arial;
+    color: rgb(109, 108, 108);
+    margin: 14px 0 0 30px;
+
+
+}
+.your-eyes{
+    width: 400px;
+    
+}
+.trd-row{
+    display: flex;
+}
+.s1-grid{
+    background-color: rgb(235, 239, 241);
+    width: 400px;
+    height: 400px;
+    margin-left: 30px;
+    border-radius: 15px;
+    margin-top: 14px;
+}
+.your-pro{
+    font-size: 18px;
+    color: rgb(2, 2, 78);
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
